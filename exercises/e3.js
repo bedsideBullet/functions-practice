@@ -55,7 +55,7 @@ const getValueWithConditionTwo = (x, y) => {
   }
 };
 
-const getValueWithConditionThree = function(x, num2) {
+const getValueWithConditionThree = function(x, y) {
   if (x === 40 && y === 40) {
   return x + y;
   } else {
